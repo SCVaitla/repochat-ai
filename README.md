@@ -23,7 +23,7 @@ Key Features
 
 Why This Project Matters
 
-This project reflects real-world GenAI system design, not toy examples.
+This project reflects real-world GenAI system design.
 
 It demonstrates:
 
